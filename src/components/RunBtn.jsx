@@ -14,7 +14,11 @@ export default function RunBtn() {
     const messages = [
       "Why are you trying to click No? 😭",
       "Please don't do this! 🥺",
-      "How many times did I say no? Please click 'Yes' 🙂"
+      "How many times did I say no? Please click 'Yes' 🙂",
+      "please....🥺",
+      "you dont love me?",
+      "but why"
+
     ];
 
     const randomMessage =
@@ -31,6 +35,7 @@ export default function RunBtn() {
     <div className="main-container">
       <div>
         <h2>Do You Love Me? 😟</h2>
+        <span>Please dont click the NO nutton</span>
         <div>
           <img src="img/Bubu-Dudu-Plushies.pngw3-Photoroom.png" alt="" />
         </div>
