@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
 body{
     margin: 0;
     padding: 0;
@@ -48,6 +49,12 @@ body{
  }
  h1{
   font-family: "Boldonse", system-ui;
-  font-weight: 400;
+  font-weight: 700;
   font-style: normal;
+  font-size: 20px;
+ }
+ span{
+    font-family: serif;
+    font-size: 12px;
+    font-weight: 700;
  }
